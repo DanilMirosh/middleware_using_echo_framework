@@ -133,3 +133,12 @@ dmypy.json
 .DS_Store
 .idea/
 ./django_static
+
+.DS_Store
+coverage.txt
+_test
+vendor
+.idea
+*.iml
+*.out
+.vscode
